@@ -4,8 +4,6 @@
 
 現在は **version 1.31** が最新です。
 
-[![Watch the video](<<<<https://img.youtube.com/vi/<--youtube>>>> URL here->/maxresdefault.jpg)](<<<<https://youtu.be/<--youtube>>>> url id here -->)
-
 以下のスクリプトが備わっています。
 
 ## @Repeater
